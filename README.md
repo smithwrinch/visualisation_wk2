@@ -16,7 +16,7 @@ For the background, with the same theme in mind, I went for a pixelated star fie
 ![main sprite](bg.png)
 
 ### Things to add
-There is much to add to this prototype. Firstly the mechanics of the game need tweaking so that there are better signifiers for when the state has changed (although I would like to keep this subtle). I also plan to add at least 2 more states. One could be a flappy bird-keyhole arcade game combo where holding space increases lift to fit through a gap. Another could be pressing space at specific collisions (like guitar hero). 
+There is much to add to this prototype. Firstly the mechanics of the game need tweaking so that there are better signifiers for when the state has changed (although I would like to keep this subtle). I also plan to add at least 2 more states. One could be a flappy bird-keyhole arcade game combo where holding space increases lift to fit through a gap. Another could be pressing space at specific collisions (like guitar hero). I also need to change the score system such that it increments not with a clock but with a player's successful pass over each obstacle - this would serve to give the player more satisfaction within the experience of playing my game.
 \
 \
 \
