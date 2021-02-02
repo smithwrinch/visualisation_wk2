@@ -14,11 +14,11 @@ I went through multiple iterations for the main sprite which was to fit in with 
 For the background, with the same theme in mind, I went for a pixelated star field - or pixelated space (pun intended).
 
 ![main sprite](bg.png)
-\
-\
 
 ### Things to add
 There is much to add to this prototype. Firstly the mechanics of the game need tweaking so that there are better signifiers for when the state has changed (although I would like to keep this subtle). I also plan to add at least 2 more states. One could be a flappy bird-keyhole arcade game combo where holding space increases lift to fit through a gap. Another could be pressing space at specific collisions (like guitar hero). 
+\
+\
 \
 To view footage of the game in its current state click [here](https://www.youtube.com/watch?v=uM4tRXw0E60)
 \
